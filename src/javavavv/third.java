@@ -4,8 +4,8 @@ import java.util.*;
 
 public class third {
 	
-	/*´ÙÀ½ ¿¹Á¦´Â ÀÌ¿ëÇØ¼­ ºù°íÆÇÀº 1~30»çÀÌÀÇ ¼ýÀÚµé·Î ¸¸µç °ÍÀÎµ¥, ¼ýÀÚµéÀÇ
-	À§Ä¡°¡ Àß ¼¯ÀÌÁö ¾Ê´Â´Ù´Â ¹®Á¦°¡ ÀÖ´Ù. ÀÌ¸¦ °³¼±ÇÑ »õ·Î¿î ÄÚµå¸¦ ÀÛ¼ºÇÏ½Ã¿À.*/
+	/*ë‹¤ìŒ ì˜ˆì œëŠ” ì´ìš©í•´ì„œ ë¹™ê³ íŒì€ 1~30ì‚¬ì´ì˜ ìˆ«ìžë“¤ë¡œ ë§Œë“  ê²ƒì¸ë°, ìˆ«ìžë“¤ì˜
+	ìœ„ì¹˜ê°€ ìž˜ ì„žì´ì§€ ì•ŠëŠ”ë‹¤ëŠ” ë¬¸ì œê°€ ìžˆë‹¤. ì´ë¥¼ ê°œì„ í•œ ìƒˆë¡œìš´ ì½”ë“œë¥¼ ìž‘ì„±í•˜ì‹œì˜¤.*/
 	
 	public static void main(String[] args)
 	{
@@ -25,6 +25,6 @@ public class third {
 	}
 	System.out.println();
 	}
-	} // main
+	}
 	
 }
